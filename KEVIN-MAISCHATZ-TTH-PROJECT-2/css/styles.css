@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -64,7 +65,7 @@ h1,
 }
 
 h3{
-    color: #272727;
+    color: #a83131;
 }
 
 
@@ -117,7 +118,7 @@ p {
 }
 
 hr {
-  width: 1000%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   border-top: 1px solid rgb(226, 224, 224);
@@ -221,6 +222,10 @@ footer {
 
 }
 
+h2 {
+  color: #ca1818;
+  text-align: center;
+}
 
 @media (min-width: 1024px) {
   body {
